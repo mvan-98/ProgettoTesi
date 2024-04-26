@@ -28,9 +28,9 @@ Disporre di un sistema completo in grado di soddisfare gli obiettivi del progett
 - Manuale d'utilizzo
 - Una descrizione tecnica che illustri come è strutturato il sistema sviluppato
 - Elenco di casi didattici utilizzabili a scopo di verifica del sistema.
-Il progetto mira a fornire un contributo significativo al campo della sicurezza informatica attraverso lo sviluppo e l'implementazione di honeypots avanzati. La capacità di rilevare e rispondere in modo efficace agli attacchi su Internet è essenziale per proteggere le organizzazioni e gli utenti
+Il progetto mira a fornire un contributo significativo al campo della sicurezza informatica attraverso lo sviluppo e l'implementazione di honeypots avanzati. La capacità di rilevare e rispondere in modo efficace agli attacchi su Internet è essenziale per proteggere le organizzazioni e gli utenti alle minacce online in continua evoluzione.
 
 <img width="578" alt="Screenshot 2024-04-26 alle 16 39 27" src="https://github.com/mvan-98/ProgettoTesi/assets/94002498/f8547578-8747-4803-a87d-3211074b2e12">
-alle minacce online in continua evoluzione.
+
 
 
